@@ -89,7 +89,7 @@ body {
     margin-top: 80px;
 }
 
-.hero-content {
+.hero-content-international {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -512,7 +512,7 @@ body {
         justify-content: center;
     }
     
-    .hero-content {
+    .hero-content-international {
         flex-direction: column;
         gap: 2rem;
     }
